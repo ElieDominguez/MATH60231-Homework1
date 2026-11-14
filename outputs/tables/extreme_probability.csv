@@ -1,0 +1,9 @@
+,Value
+HES return,-0.336685
+Market return,-0.0793167327352644
+OLS fitted HES return,-0.11049873753104122
+Conditional z-score,-9.586349554436543
+Normal downside probability,4.562834806127274e-22
+Empirical downside frequency,0.0004409171075837742
+Event-date VaR 1%,0.16538802858431678
+Actual loss minus event-date 1% VaR,0.17129697141568323

@@ -1,0 +1,4 @@
+,Bootstrap rejection rate,Original-sample KS p-value
+"N(0,1) sample",0.174,0.5548024313869562
+t(3) sample,0.578,0.09567800574095842
+HES raw returns,1.0,0.0

@@ -1,0 +1,4 @@
+,VaR 5%
+Empirical,0.040523
+OLS-normal (mean conditional VaR),0.03808378673904522
+Bootstrap mean,0.040508588600000006
